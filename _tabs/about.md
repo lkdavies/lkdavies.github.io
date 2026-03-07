@@ -26,7 +26,7 @@ Here's a sampling of my work as a senior technical writer at Amazon Web Services
 
 **Skills**
 
-**Tools and technologies:** Git, Brazil, GitHub, LLMs at the command line, generative AI scripting, prompt engineering, Linux (AL2, Ubuntu, WSL), AWS CLI, VSCode, Figma, Oxygen, docs as code, Jekyll, Amazon Q Developer CLI, Claude, ChatGPT, JIRA, Asana.
+**Tools and technologies:** Git, Brazil, GitHub, LLMs at the command line, generative AI scripting, prompt engineering, Linux (AL2, Ubuntu, WSL), AWS CLI, VSCode, Figma, Oxygen, docs as code, Jekyll, Amazon Q Developer CLI, Claude, ChatGPT, Docker containers, JIRA, Asana.
 
 **Languages and formats:** JSON, XML, DITA, HTML, Markdown, RST, YAML, SQL. Lightweight automation with Python and Bash, JavaScript Lambda expressions.
 
