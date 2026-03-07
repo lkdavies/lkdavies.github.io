@@ -1,8 +1,8 @@
 ---
 title: Process automation - Single-sourced code examples
 date: 2026-03-06 00:00:00 -0800
-categories: [code_examples, example]
-tags: [code examples, automation]     # TAG names should always be lowercase
+#categories: [code_examples, example]
+#tags: [code examples, automation]     # TAG names should always be lowercase
 ---
 
 **Use case:**

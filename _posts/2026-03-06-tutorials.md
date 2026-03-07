@@ -1,8 +1,8 @@
 ---
 title: AI assisted content - Developer tutorials at scale
 date: 2026-03-06 00:00:00 -0800
-categories: [tutorials, example]
-tags: [tutorials, ai]     # TAG names should always be lowercase
+#categories: [tutorials, example]
+#tags: [tutorials, ai]     # TAG names should always be lowercase
 ---
 
 **Use case:**
