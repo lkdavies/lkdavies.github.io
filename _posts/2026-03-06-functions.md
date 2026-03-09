@@ -35,6 +35,6 @@ The solution was to automate publication from the GitHub repo to the developer g
 
 With the templates and single-source publication functionality, adding a new code example now takes one hour instead of four, a time savings of 75%. When a developer or writer adds the example to the the GitHub repo, it publishes to the developer guide site automatically.
 
-[See the example section](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/example_cloudfront_functions_add_security_headers_section.html)
+[See a code example as published in the developer guide](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/example_cloudfront_functions_add_security_headers_section.html)
 
 [See the source repo](https://github.com/aws-samples/amazon-cloudfront-functions/tree/main)
