@@ -35,6 +35,6 @@ The prompt templates we developed were standardized so developers could use them
 
 Ultimately, we delivered ~70 new CLI tutorials and Bash scripts in 60 days.
 
-[See a tutorial example as published in a developer guide](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/get-started-cli-tutorial.html)
+[See a tutorial example as published in a developer guide](https://drive.google.com/file/d/1JWsJxc_zA9NKyixPUf4GffEjdvsHelR-/view?usp=sharing)
 
 [See Markdown tutorials and Bash script examples in the public repo](https://github.com/aws-samples/sample-developer-tutorials/pull/1/changes/892db67fdac71444f80ceb2ca3a00ac0a86f01b5)
