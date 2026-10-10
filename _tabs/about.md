@@ -7,13 +7,13 @@ order: 1
 
 Hi there! I'm a solutions-oriented technical writer and UX writer who thrives on hands-on learning and delivering documentation that results in user success. I collaborate with technical teams to optimize content strategy and influence API and UX design.
 
-Currently looking for one of these roles, or something like it: **technical writer**, **UX writer**, **content designer**, or **documentation engineer** at a company where I can improve the user experience, plan and execute content strategy, and contribute to content process improvements.
+I'm always thinking about how to improve the user experience, plan and execute content strategy, and contribute to content process improvements.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/liz-kellebrew-davies/)
 
 **Experience**
 
-Here's a sampling of my work as a senior technical writer at Amazon Web Services:
+Here's a sampling of my work:
 
 - Reduced developer time 75% by automating publication of JavaScript code examples from GitHub repo to developer guide website
 - Wrote UI text for an onboarding UX that increased new sign-ups by 30%
